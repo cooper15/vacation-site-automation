@@ -1,1 +1,1 @@
-"# vacation-site-automation" 
+![Vacations site](demo/vacations_site.gif)
